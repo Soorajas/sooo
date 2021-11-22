@@ -73,4 +73,4 @@ pip3 install pyrogram
 
 - Copyright (C) 2017-2021 Dan <<https://github.com/delivrance>>
 - Licensed under the terms of the [GNU Lesser General Public License v3 or later (LGPLv3+)](COPYING.lesser)
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Soorajas/sooo)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/pyrogram/pyrogram)
